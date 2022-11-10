@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-13SKNRN.GestionBecasDW.sa"
+  DTS:DTSID="{C1DA9653-5E8A-4C74-9466-54F665D36142}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-13SKNRN;User ID=sa;Initial Catalog=GestionBecasDW;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-GestionBecas_ETL-{C1DA9653-5E8A-4C74-9466-54F665D36142}DESKTOP-13SKNRN.GestionBecasDW.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASXPvekbLBUGvfULcqO0hlQAAAAACAAAAAAAQZgAAAAEAACAAAAD2mI5O6FNS+j25UQIhPBOPb62BlpbQh1kOymT664W9bQAAAAAOgAAAAAIAACAAAADsqCTvTyh2ZCYwUA7+mgu8EkyO2OKS9GoLxS4hOQT3tIAAAADHH2hrU1S+2kOnGmJxkQ+kNJkG4NgX+wsSsN9eEqxnvqoFW029nsMNObc/j2yvehhnF5XMFnEdYmkfiZGjQDXiOdFdnxRlAOEi7d8fkxNmPMISPEZdRz8mpDfde8nEaafpoYCosA7TMxHhpw7C+4OessWWpk43EpX1aNHCHCepCEAAAAAzJ5bCOlaJp/1ck53MCcT9q5yR9316wuJleKQ9QS5QhIqnTIyzAC7AKnUV2o1Sfx7M+c+urWRPpSKb1fHfLQ6i</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
